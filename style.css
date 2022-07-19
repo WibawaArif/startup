@@ -50,3 +50,7 @@ hr {
 .buffer {
   height: 10rem;
 }
+
+.animate__animated.animate__flash {
+  animation-duration: 3s;
+}
